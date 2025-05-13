@@ -69,5 +69,4 @@ def main():
       visualizar(vet_alunos)
     opcao = menu()
 
-
 main()
